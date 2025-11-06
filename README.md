@@ -18,7 +18,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ## How to Start
 
 ```{bash}
-git clone https://github.com/wenjietseng/VR-locomotion-parkour.git
+git clone https://github.com/TU-Darmstadt-HCI-Lab/VR-locomotion-parkour.git
 ```
 
 - download the GitHub repo and open __VRParkour__ folder as a Unity project
@@ -30,9 +30,9 @@ git clone https://github.com/wenjietseng/VR-locomotion-parkour.git
 
 ### Core
 
-- Unity 6000.0.23f1 LTS
-- Meta XR All-in-One SDK 69.0.1
-- Oculus XR Plugin 4.3.0
+- Unity 6000.0.60f1 LTS
+- Meta XR All-in-One SDK 78.0.0
+- Oculus XR Plugin 4.5.2
 
 ### Rendering settings
 
