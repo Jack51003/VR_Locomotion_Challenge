@@ -1,4 +1,15 @@
-# VR-locomotion-parkour
+# VR_Locomotion_Challenge
+
+An implementation of a locomotion and object interaction technique with VR. Built on Unity with the Meta Quest 3s.
+
+## Setup (this fork)
+
+- Unity 6000.6.6f1, Meta XR All-in-One SDK 209.0.0, OpenXR 1.19.0 (Oculus XR Plugin removed)
+- Android: min API 32, target API 34, IL2CPP, ARM64
+- Tools > Quest Setup > Use OpenXR for Quest + Link: re-applies the OpenXR feature setup
+- Tools > Quest Setup > Build APK: builds to Builds/VRParkour.apk
+
+Based on [VR-locomotion-parkour](https://github.com/teamdarmstadt/VR-locomotion-parkour) (MIT).
 
 ## Demo Video
 
