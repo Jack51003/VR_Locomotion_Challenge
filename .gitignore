@@ -75,3 +75,10 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
+
+# Local test builds
+/Builds/
+
+# Unity build temp and IDE solution
+/.utmp/RelWithDebInfo/
+*.slnx

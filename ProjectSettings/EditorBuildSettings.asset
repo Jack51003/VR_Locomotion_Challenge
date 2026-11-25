@@ -12,7 +12,5 @@ EditorBuildSettings:
     path: Assets/Scenes/TestingSelectionTask.unity
     guid: 082f5e4c47bce3344acf2dce8fdf7aa7
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 853b3cf7745111f44a5a7e2c23b991d2,
-      type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d4d075abc73c05849bc966fc4a64228d,
-      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d4d075abc73c05849bc966fc4a64228d, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: aabd5b5fc3ce35d42b4523627b7a0645, type: 2}
